@@ -2,4 +2,4 @@
 
 ### is for only X-Vortex
 
-### release date 6 pf December 2024
+### release date 6 of December 2024
